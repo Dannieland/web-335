@@ -1,9 +1,9 @@
-#----------------------------------------------------------
+#
 # taplin_calculator.py
 # Danielle Taplin
 # 08/26/23
 # code to calculate numerical values
-#----------------------------------------------------------
+#
 
 #declare function adding two parameters together
 def add(x,y):
